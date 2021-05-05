@@ -1,0 +1,27 @@
+body{
+    background:rgb(233, 212, 185);
+}
+header{
+    background:rgb(92, 112, 92);
+    height: 60px;
+    width: 100%;
+    align-content: center;
+}
+.icono1{
+    float:right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+}
+.icono2{
+    float:right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+}
+.icono3{
+    float:right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+}
