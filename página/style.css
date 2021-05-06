@@ -11,10 +11,10 @@ h3{
     text-align: center;
     line-height:4px;
     display: inline-block;
-    padding:20px;
+    padding:16px;
     font-family: fantasy;
     color:honeydew;
-    font-size: 170%;
+    font-size: 175%;
 }
 .logoguerrera{
     line-height:4px;
@@ -76,8 +76,8 @@ h3{
 
 .field>button{
     padding:0.7em 0.10em;
-  background-color:rgb(26, 188, 156);
-  color:white;
+    background-color:rgb(26, 188, 156);
+    color:white;
 }
 .icono6{
     align-self:flex-start;
@@ -158,7 +158,15 @@ h3{
 .album{
     background: rgba(218, 180, 153, 0.824);
     border-radius: 6% 6% 6% 6%;
-    margin: 2%;
+    margin: 2%;    
 }
-
+footer{
+    background-color: rgb(177, 131, 167);
+    clear:left;
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    font-family: fantasy;
+    
+}
   
