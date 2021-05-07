@@ -15,7 +15,7 @@ h3{
     text-align: center;
     line-height:4px;
     display: inline-block;
-    padding:16px;
+    padding:40px;
     font-family: fantasy;
     color:honeydew;
     font-size: 175%;
@@ -158,6 +158,20 @@ h3{
     padding:18px;
     border-radius: 10% 20% 20% 20%; 
     margin-left:2%;    
+}
+.imagen11{
+    width:180px;
+    height:150px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen12{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:1%;    
 }
 .album{
     background: rgba(218, 180, 153, 0.824);

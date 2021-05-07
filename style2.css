@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 body{
     background: rgb(223, 186, 160);
 }
@@ -8,10 +12,10 @@ header{
     align-content: center;
 }
 h3{
-    text-align: center;
+    text-align:center;
     line-height:4px;
     display: inline-block;
-    padding:16px;
+    padding:40px;
     font-family: fantasy;
     color:honeydew;
     font-size: 175%;
@@ -20,40 +24,76 @@ h3{
     line-height:4px;
     padding:2px;
     float:left;
+    width:9%;
+    height:9%;
+}
+img.icono{
+    width: 50%;
+    height: 50%;
 }
 .icono1{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
 }
 .icono2{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
 }
 .icono3{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:20px;
 }
 .icono4{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
 }
 .icono5{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:21px;
 }
 .titulo{
     color:black;
-    font-family: fantasy;
-    font-size: 99%;
+    font-family:monospace;
+    font-size: 25px;
     text-align: center;
 }
+div.noticia img.derecha{
+    float: left;
+    margin-right: 15px;
+    width: 40%;
+    height: 40%;
+    margin-top: 1%;
+}
+.quienessomos{
+    font-family:monospace;
+    font-size: 16px;
+    background: rgba(245, 216, 172, 0.817);
+    border-radius:10% 10% 10% 10%;
+    margin-left: 43%;
+    margin-right: 30%;
+    margin-top: 1%;
+    text-align: center;
+}
+.titulo2{
+    margin:10%;
+    font-size: 13px;
+    text-align:center;
+}
+.instagram{
+    width: 70px;
+    height: 70px;
+    margin-left: 8%;
+}
+
+
+
