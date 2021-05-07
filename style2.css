@@ -1,4 +1,6 @@
-
+body{
+    background: rgb(223, 186, 160);
+}
 header{
     background:rgb(92, 112, 92);
     height:80px;
@@ -50,5 +52,8 @@ h3{
     padding:21px;
 }
 .titulo{
-    color: black;
+    color:black;
+    font-family: fantasy;
+    font-size: 99%;
+    text-align: center;
 }
