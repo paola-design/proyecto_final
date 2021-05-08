@@ -66,21 +66,23 @@ img.icono{
     font-family:monospace;
     font-size: 25px;
     text-align: center;
+    margin-left: 33%;
+    margin-top: 1%;
 }
 div.noticia img.derecha{
     float: left;
     margin-right: 15px;
-    width: 40%;
-    height: 40%;
-    margin-top: 1%;
+    width: 46%;
+    height: 46%;
+    
 }
 .quienessomos{
     font-family:monospace;
     font-size: 16px;
     background: rgba(245, 216, 172, 0.817);
     border-radius:10% 10% 10% 10%;
-    margin-left: 43%;
-    margin-right: 30%;
+    margin-left: 53%;
+    margin-right: 20%;
     margin-top: 1%;
     text-align: center;
 }
@@ -90,10 +92,22 @@ div.noticia img.derecha{
     text-align:center;
 }
 .instagram{
-    width: 70px;
-    height: 70px;
-    margin-left: 8%;
+    width:60px;
+    height:60px;
+    float: right;
 }
+.facebook{
+    width:55px;
+    height:55px;
+    float: left;
+}
+.twitter{
+    width:60px;
+    height:60px;
+    float:right ;
+    padding-right: 20%;
+}
+
 
 
 
