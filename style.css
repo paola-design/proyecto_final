@@ -24,38 +24,43 @@ h3{
     line-height:4px;
     padding:2px;
     float:left;
+    width:9%;
+    height:9%;
+}
+img.icono{
+    width: 50%;
+    height: 50%;
 }
 .icono1{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
 }
 .icono2{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
 }
 .icono3{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:20px;
 }
 .icono4{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
 }
 .icono5{
-    float:right;
+    float: right;
     display:inline-block;
     line-height:4px;
     padding:21px;
-}
-
+}    
 .field {
   display:flex;
   margin:3em;
@@ -65,19 +70,16 @@ h3{
   box-shadow:
    1px 1px 0 rgb(91, 114, 99),
 }
-
 .field>input[type=text],
 .field>button {
   display:block;
   font:1.2em 'Montserrat Alternates';
 }
-
 .field>input[type=text] {
   flex:1;
   padding:0.10em;
   padding-left: 20px;
 }
-
 .field>button{
     padding:0.7em 0.10em;
     background-color:rgb(26, 188, 156);
@@ -87,7 +89,6 @@ h3{
     align-self:flex-start;
     width:3%;
     height:3%;
-
 }
 .imagen1{
     width:180px;

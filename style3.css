@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: rgb(223, 186, 160);
+}
+header{
+    background:rgb(92, 112, 92);
+    height:80px;
+    width:100%;
+    align-content: center;
+}
+h3{
+    text-align:center;
+    line-height:4px;
+    display: inline-block;
+    padding:40px;
+    font-family: fantasy;
+    color:honeydew;
+    font-size: 175%;
+}
+.logoguerrera{
+    line-height:4px;
+    padding:2px;
+    float:left;
+    width:9%;
+    height:9%;
+}
+img.icono{
+    width: 50%;
+    height: 50%;
+}
+.icono1{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+}
+.icono2{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+}
+.icono3{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+}
+.icono4{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:18px;
+}
+.icono5{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:21px;
+}
+.field {
+    display:flex;
+    margin:3em;
+    width:80%;
+    height:10%;
+    padding-right:190px;
+    box-shadow:
+     1px 1px 0 rgb(91, 114, 99),
+}
+.field>input[type=text],
+.field>button {
+  display:block;
+  font:1.2em 'Montserrat Alternates';
+}
+.field>input[type=text] {
+    flex:1;
+    padding:0.10em;
+    padding-left: 20px;
+}
+.field>button{
+    padding:0.7em 0.10em;
+    background-color:rgb(26, 188, 156);
+    color:white;
+}
+.anime{
+    width: 150px;
+    height: 150px;
+    border-radius:50% 50% 50% 50%;
+    margin-left: 6%;
+    position: relative;
+    top: -227px;
+}
+.peliculas{
+    width: 150px;
+    height: 150px;
+    border-radius:50% 50% 50% 50%;
+    margin-left: 19%;
+    position: relative;
+    top: -155px;
+}
+.tecnicas{
+    width: 150px;
+    height: 150px;
+    border-radius:50% 50% 50% 50%;
+    margin-left: 32%;
+    position: relative;
+    top: -80px;
+}
+.series{
+    width: 150px;
+    height: 150px;
+    border-radius:50% 50% 50% 50%;
+    margin-left: 44%;
+    position: relative;
+    top: -8px;
+}
