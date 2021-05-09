@@ -85,35 +85,78 @@ img.icono{
     background-color:rgb(26, 188, 156);
     color:white;
 }
-.anime{
+.series{
+    display: block;
+    float: right;
     width: 150px;
     height: 150px;
     border-radius:50% 50% 50% 50%;
-    margin-left: 6%;
-    position: relative;
-    top: -227px;
+    margin-top: -80px;
+    margin-right: 60%;
+}
+
+.videojuegos{
+    display: block;
+    position: relative;		
+    width: 150px;
+    height: 150px;
+    border-radius:50% 50% 50% 50%;
+    margin-left: 57%;
+    top: -12px;
+}
+.p2{
+    outline: none;
+    text-decoration: none;
+    margin-right: 0.625%;
+    line-height: 3;
+    color: black;
+    display: block;
+    position: absolute;
+    bottom: -315px;
+    padding: 600px;
+    width: 100%;
+}
+.p1{
+    outline: none;
+    text-decoration: none;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    display: block;
+    position: absolute;
+    bottom: -34px;
+    left: 55%;
+    padding: 5px;
+    width: 100%;
 }
 .peliculas{
+    display: block;
+    float: right;
     width: 150px;
     height: 150px;
     border-radius:50% 50% 50% 50%;
-    margin-left: 19%;
-    position: relative;
-    top: -155px;
+    margin-top: -120px;
+    margin-right: 150%;
 }
-.tecnicas{
-    width: 150px;
-    height: 150px;
-    border-radius:50% 50% 50% 50%;
-    margin-left: 32%;
-    position: relative;
-    top: -80px;
+a{
+    width: 19.5%;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    text-decoration: none;
+    font-family: monospace;
+    font-weight:lighter;
+    font-size: 100%;
+}   
+a:link, a:visited, a:focus{
+    background: rgb(94, 129, 105);
+    border-radius: 20% 20% 20% 20%;
 }
-.series{
-    width: 150px;
-    height: 150px;
-    border-radius:50% 50% 50% 50%;
-    margin-left: 44%;
-    position: relative;
-    top: -8px;
+a:hover{
+    background: rgb(94, 125, 134);
+}
+a:active{
+    background: rgb(204, 135, 204);
+    color: white;
 }
