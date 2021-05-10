@@ -93,10 +93,13 @@ img.icono{
 .contenedor{
     display:flex;
     justify-content:center;
+    background-color: rgba(159, 201, 215, 0.79);
+    margin: 2%;
+    border-radius: 5% 5% 5% 5%;
 }
 .content{
     width: 190px;
-    margin: 0 2px
+    margin: 0 2px;
 }
 .link1{
     display:flex;
@@ -112,10 +115,13 @@ a{
 .contenedor2{
     display:flex;
     justify-content:center;
+    background-color:rgba(168, 206, 232, 0.582);
+    margin: 2%;
+    border-radius: 5% 5% 5% 5%;
 }
 .content2{
     width: 190px;
-    margin-top: 3%;
+    margin-top: 0 3%;
 }
 .link2{
     display:flex;
@@ -124,17 +130,20 @@ a{
 a{
     text-decoration: none;
     margin: 0 30px;
-    color: rgb(33, 132, 135);
+    color: rgb(0, 0, 0);
     font-weight: bold;
     font-family: fantasy;
 }
 .contenedor3{
     display:flex;
     justify-content:center;
+    background-color:rgba(115, 202, 190, 0.447);
+    margin: 2%;
+    border-radius: 5% 5% 5% 5%;
 }
 .content3{
     width: 190px;
-    margin-top: 3%;
+    margin-top: 0 3%;
 }
 .link3{
     display:flex;
