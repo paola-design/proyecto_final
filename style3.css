@@ -91,5 +91,44 @@ img.icono{
 }
 .content{
     width: 190px;
+    margin: 0 2px
+}
+.link1{
+    display:flex;
+    justify-content:space-evenly;  
+}
+a{
+    text-decoration: none;
+    margin: 0 30px;
+    color: rgb(33, 132, 135);
+    font-weight: bold;
+    font-family: fantasy;
+}
+.contenedor2{
+    display:flex;
+    justify-content:center;
+}
+.content2{
+    width: 190px;
+    margin-top: 3%;
+}
+.link2{
+    display:flex;
+    justify-content:space-evenly;  
+}
+a{
+    text-decoration: none;
+    margin: 0 30px;
+    color: rgb(33, 132, 135);
+    font-weight: bold;
+    font-family: fantasy;
+}
+.contenedor3{
+    display:flex;
+    justify-content:center;
+}
+.content3{
+    width: 190px;
+    margin-top: 3%;
 }
 
