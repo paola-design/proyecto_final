@@ -36,30 +36,35 @@ img.icono{
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 5%;
 }
 .icono2{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 4%;
 }
 .icono3{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:20px;
+    width: 5%;
 }
 .icono4{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
+    width: 6%;
 }
 .icono5{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:21px;
+    width: 4%;
 }
 .field {
     display:flex;
@@ -131,4 +136,7 @@ a{
     width: 190px;
     margin-top: 3%;
 }
-
+.link3{
+    display:flex;
+    justify-content:space-evenly;  
+}

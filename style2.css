@@ -19,7 +19,7 @@ h3{
     font-family: fantasy;
     color:honeydew;
     font-size: 175%;
-}
+}    
 .logoguerrera{
     line-height:4px;
     padding:2px;
@@ -36,44 +36,51 @@ img.icono{
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 5%;
 }
 .icono2{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 4%;
 }
 .icono3{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:20px;
+    width: 5%;
 }
 .icono4{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
+    width: 6%;
 }
 .icono5{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:21px;
+    width: 4%;
 }
 .titulo{
     color:black;
     font-family:monospace;
     font-size: 25px;
     text-align: center;
-    margin-left: 33%;
+    margin-left: 48%;
     margin-top: 1%;
 }
 div.noticia img.derecha{
     float: left;
     margin-right: 15px;
-    width: 46%;
-    height: 46%;
+    display: flex;
+    width: 52%;
+    height: 52%;
+    margin-top: -4.7%;
     
 }
 .quienessomos{
@@ -81,8 +88,8 @@ div.noticia img.derecha{
     font-size: 16px;
     background: rgba(245, 216, 172, 0.817);
     border-radius:10% 10% 10% 10%;
-    margin-left: 53%;
-    margin-right: 20%;
+    margin-left: 56%;
+    margin-right: 9%;
     margin-top: 1%;
     text-align: center;
 }

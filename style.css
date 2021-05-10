@@ -36,31 +36,36 @@ img.icono{
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 5%;
 }
 .icono2{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:22px;
+    width: 4%;
 }
 .icono3{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:20px;
+    width: 5%;
 }
 .icono4{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
+    width: 6%;
 }
 .icono5{
     float: right;
     display:inline-block;
     line-height:4px;
     padding:21px;
-}    
+    width: 4%;
+} 
 .field {
   display:flex;
   margin:3em;
@@ -173,6 +178,27 @@ img.icono{
     padding:18px;
     border-radius: 10% 20% 20% 20%; 
     margin-left:1%;    
+}
+.imagen13{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen14{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:3%;    
+}
+.imagen15{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
 }
 .album{
     background: rgba(218, 180, 153, 0.824);
