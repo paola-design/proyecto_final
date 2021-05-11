@@ -1,0 +1,225 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:rgb(0, 0, 0);
+}
+header{
+    background:rgb(92, 112, 92);
+    height:80px;
+    width:100%;
+    align-content: center;
+}
+h3{
+    text-align: center;
+    line-height:4px;
+    display: inline-block;
+    padding:40px;
+    font-family: fantasy;
+    color:honeydew;
+    font-size: 175%;
+}
+.logoguerrera{
+    line-height:4px;
+    padding:2px;
+    float:left;
+    width:9%;
+    height:9%;
+}
+img.icono{
+    width: 50%;
+    height: 50%;
+}
+.icono1{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+    width: 5%;
+}
+.icono2{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+    width: 4%;
+}
+.icono3{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+    width: 5%;
+}
+.icono4{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:18px;
+    width: 6%;
+}
+.icono5{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:21px;
+    width: 4%;
+} 
+.field {
+  display:flex;
+  margin:3em;
+  width:80%;
+  height:10%;
+  padding-right:190px;
+  box-shadow:
+   1px 1px 0 rgb(91, 114, 99),
+}
+.field>input[type=text],
+.field>button {
+  display:block;
+  font:1.2em 'Montserrat Alternates';
+}
+.field>input[type=text] {
+  flex:1;
+  padding:0.10em;
+  padding-left: 20px;
+}
+.field>button{
+    padding:0.7em 0.10em;
+    background-color:rgb(26, 188, 156);
+    color:white;
+}
+.icono6{
+    align-self:flex-start;
+    width:3%;
+    height:3%;
+}
+.imagen1{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen2{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen3{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen4{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen5{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen6{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen7{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen8{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen9{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen10{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen11{
+    width:180px;
+    height:150px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen12{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen13{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen14{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:3%;    
+}
+.imagen15{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.album{
+    background: rgba(134, 134, 134, 0.726);
+    border-radius: 6% 6% 6% 6%;
+    margin: 2%;    
+}
+footer{
+    background-color:rgba(152, 173, 128, 0.801);
+    clear:left;
+    text-align:center;
+    height:30px;
+    width:100%;
+    position: fixed;
+    bottom:0;  
+    left:0;
+}
+.texto{
+    font-family:fantasy;  
+    font-size: 130%;
+} 
+.icono6{
+    width:6%;
+    height:6%;
+}
