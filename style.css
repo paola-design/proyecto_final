@@ -52,12 +52,27 @@ img.icono{
     padding:20px;
     width: 5%;
 }
-.icono4{
+.dropdown {
+    position: relative;
+    display: inline-block;
     float: right;
     display:inline-block;
     line-height:4px;
     padding:18px;
     width: 6%;
+}
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
 }
 .icono5{
     float: right;
@@ -89,11 +104,6 @@ img.icono{
     padding:0.7em 0.10em;
     background-color:rgb(26, 188, 156);
     color:white;
-}
-.icono6{
-    align-self:flex-start;
-    width:3%;
-    height:3%;
 }
 .imagen1{
     width:180px;
