@@ -74,6 +74,25 @@ img.icono{
 .dropdown:hover .dropdown-content {
     display: block;
 }
+p{
+    font-size: 110%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.fotoperfil{
+    width: 50%;
+    height: 30%;
+    display:block;
+    margin: 15%;
+}  
+h1{
+    text-align: justify;
+    margin-top: 15%;
+    font-weight: lighter;
+    font-size: 100%;
+    letter-spacing: normal;
+
+}   
 .icono5{
     float: right;
     display:inline-block;
