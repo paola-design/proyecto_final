@@ -61,7 +61,7 @@ img.icono{
     padding:18px;
     width: 6%;
 }
-  .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -70,7 +70,25 @@ img.icono{
     padding: 12px 16px;
     z-index: 1;
 }
-  
+p{
+    font-size: 110%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.fotoperfil{
+    width: 50%;
+    height: 30%;
+    display:block;
+    margin: 15%;
+}  
+h1{
+    text-align: justify;
+    margin-top: 15%;
+    font-weight: lighter;
+    font-size: 100%;
+    letter-spacing: normal;
+
+}   
 .dropdown:hover .dropdown-content {
     display: block;
 }
@@ -228,4 +246,4 @@ footer{
 .texto{
     font-family:fantasy;  
     font-size: 130%;
-}      
+}   
