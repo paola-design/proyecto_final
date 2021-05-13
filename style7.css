@@ -4,7 +4,6 @@
 }
 body{
     background:rgb(233, 212, 185);
-    
 }
 header{
     background:rgb(92, 112, 92);
@@ -52,13 +51,7 @@ img.icono{
     line-height:4px;
     padding:20px;
     width: 5%;
-}.icono5{
-    float: right;
-    display:inline-block;
-    line-height:4px;
-    padding:21px;
-    width: 4%;
-} 
+}
 .dropdown {
     position: relative;
     display: inline-block;
@@ -100,41 +93,58 @@ h1{
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.cuerpo{
-    background-color: rgba(206, 229, 250, 0.637);
-    border-radius: 6% 6% 6% 6%;
-    margin: 2%;  
-    padding-bottom: 3%; 
-}
-.mujer{
-    display: flex;
-    width: 50%;
-    height: 50%;
-    margin-top: 1%;
-    margin-left: 450px;  
-}
-.subirpublicaciones{
-    display: flex;
-    margin-top: -33%;
-    margin-left: 200px;
-    position: center;
-}
-.iconopb{
+.icono5{
     float: right;
     display:inline-block;
     line-height:4px;
-    padding:10px;
-    width: 64%;   
+    padding:21px;
+    width: 4%;
+} 
+.background{
+    background-color: rgba(206, 229, 250, 0.637);
+    border-radius: 6% 6% 6% 6%;
+    margin: 2%;  
+    padding-bottom: 6%; 
 }
-.texto1{
-    font-family: fantasy;
-    padding-left: 30%;
+.gorillaz{
+    width: 30%;
+    height: 30%;
+    display:flex;
+    padding-top: 3%;
+    padding-left: 10%;
+    border-radius: 30% 10% 20% 10%;
 }
-.texto2{
-    font-family: fantasy;
-    padding-left: 37%;
+.configuracion{
+    border-radius: 5px;
+    padding-left: 50%;
+    margin-top: -30%;
 }
-.texto3{
-    font-family: fantasy;
-    padding-left: 30%;
+h2{
+    font-size: 150%;
+    font-family:fantasy;
+    
 }
+.descripcion{
+    border-radius: 5px;
+    padding-left: 50%;
+    margin-top: 2%;
+}
+.comentarios{
+    display:flex;
+    justify-content:justify;
+    padding-left: 50%;
+    bottom: 20%;
+    margin-top: 4%;
+}
+.tema{
+    border-radius: 5px;
+    padding-left: 10%;
+    margin-top: 2%;
+}
+.opciones{
+    display:flex;
+    justify-content:center;
+    padding-left: 40%;
+}
+
+    
