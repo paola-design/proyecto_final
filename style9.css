@@ -1,0 +1,223 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:rgb(233, 212, 185);
+}
+header{
+    background:rgb(92, 112, 92);
+    height:80px;
+    width:100%;
+    align-content: center;
+}
+h3{
+    text-align: center;
+    line-height:4px;
+    display: inline-block;
+    padding:40px;
+    font-family: fantasy;
+    color:honeydew;
+    font-size: 175%;
+}
+.logoguerrera{
+    line-height:4px;
+    padding:2px;
+    float:left;
+    width:9%;
+    height:9%;
+}
+img.icono{
+    width: 50%;
+    height: 50%;
+}
+.icono1{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+    width: 5%;
+}
+.icono2{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:22px;
+    width: 4%;
+}
+.icono3{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:20px;
+    width: 5%;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:18px;
+    width: 6%;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    right: 10px;
+}
+p{
+    font-size: 110%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:black;
+}
+.fotoperfil{
+    width: 50%;
+    height: 30%;
+    display:block;
+    margin: 15%;
+}  
+h1{
+    text-align: justify;
+    margin-top: 15%;
+    font-weight: lighter;
+    font-size: 100%;
+    letter-spacing: normal;
+    color:black;
+
+}   
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.icono5{
+    float: right;
+    display:inline-block;
+    line-height:4px;
+    padding:21px;
+    width: 4%;
+} 
+.field {
+  display:flex;
+  margin:3em;
+  width:80%;
+  height:10%;
+  padding-right:190px;
+  box-shadow:
+   1px 1px 0 rgb(91, 114, 99),
+}
+.field>input[type=text],
+.field>button {
+  display:block;
+  font:1.2em 'Montserrat Alternates';
+}
+.field>input[type=text] {
+  flex:1;
+  padding:0.10em;
+  padding-left: 20px;
+}
+.field>button{
+    padding:0.7em 0.10em;
+    background-color:rgb(26, 188, 156);
+    color:white;
+}
+.imagen1{
+    width:150px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:3%;    
+}
+.imagen2{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:3%;    
+}
+.imagen3{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen4{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen5{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen6{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen7{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius:10% 20% 20% 20%; 
+    margin-left:1%;    
+}
+.imagen8{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen9{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.imagen10{
+    width:180px;
+    height:180px;
+    padding:18px;
+    border-radius: 10% 20% 20% 20%; 
+    margin-left:2%;    
+}
+.album{
+    background: rgba(218, 180, 153, 0.824);
+    border-radius: 6% 6% 6% 6%;
+    margin: 2%;    
+}
+footer{
+    background-color:rgba(152, 173, 128, 0.801);
+    clear:left;
+    text-align:center;
+    height:30px;
+    width:100%;
+    position: fixed;
+    bottom:0;  
+    left:0;
+}
+.texto{
+    font-family:fantasy;  
+    font-size: 130%;
+}   
+a{
+    text-decoration: none;
+    margin: 0 30px;
+    font-weight:bold;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
