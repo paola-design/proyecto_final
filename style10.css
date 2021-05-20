@@ -108,3 +108,18 @@ a{
     font-weight:bold;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
+.datosdeperfil{
+    display:flex;
+    justify-content: space-evenly;
+}
+.fotodatos{
+    width: 25%;
+    height: 25%;
+    padding-top: 13%;
+    padding right: 15px;
+}
+.tuspublicaciones{
+    width: 50%;
+    height: 50%;
+    padding-top: 5%;
+}
